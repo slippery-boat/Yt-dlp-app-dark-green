@@ -5,3 +5,6 @@ or by dounloading the exe from the official repository.
 
 Yt-dlp allows you to download youtube videos for offline use.
 This is just an addon for beginners that do not know all the tags needed to run yt-dlp.
+
+official yt-dlp repository https://github.com/yt-dlp/yt-dlp
+Super lightweight app.
